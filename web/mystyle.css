@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 17, 2016, 5:21:07 PM
+    Author     : Dyanesh
+*/
+body
+{
+    /*background-color: red;*/
+    padding-top: 70px;
+   background-image: url("back1.jpg");
+   
+}
+.h1white{
+    color:white;
+}
+.mydiv{
+   /* background-color: white;*/
+    padding:85px;
+    color:white;
+    
+}
+.temples
+{
+    background-image:url("images/t3.jpg");
+    color:white;
+}
+.beaches
+{
+    background-image:url("images/beach.jpg");
+    color:white;
+}
+.ap{
+    background-image:url("images/a3.jpg");
+    color:white;
+}
+.malls
+{
+    background-image:url("images/ma2.jpg");
+    color:white;
+}
+.ta{
+    background-image:url("images/03.jpg");
+    color:white;
+}
+img.fiftyp,video.fiftyp
+		{
+		
+		padding:10px;
+		width:400px;
+		height:200px;
+		}
+
+    p.dyan{
+		margin-left:30px;
+		}
+
+a{
+color:orange;
+}
+a:hover{
+color:white;
+}

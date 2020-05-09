@@ -1,0 +1,16 @@
+#content{
+margin-left:20%;
+margin-right:20%;
+padding-top:59px;
+
+}
+body{
+background-color:rgb(176,255,248);
+font-family:Times New Roman;
+font-size:20px;
+}
+#form
+{
+border:5px solid blue;
+padding:50px;
+}
